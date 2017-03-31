@@ -1,4 +1,6 @@
 package hu.bme.mit.spaceship;
+/*wtf*/
+
 
 /**
 * Defines basic spaceship functionality
