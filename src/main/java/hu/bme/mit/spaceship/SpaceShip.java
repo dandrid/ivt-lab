@@ -1,4 +1,5 @@
 package hu.bme.mit.spaceship;
+/*asdasd*/
 
 /**
 * Defines basic spaceship functionality
